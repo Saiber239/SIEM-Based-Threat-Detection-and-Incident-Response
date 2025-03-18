@@ -221,4 +221,3 @@ Create a dashboard for top 10 failed login source IPs.
 Conclusion
 
 This guide provides a step-by-step methodology to set up a SOC lab using Splunk as a SIEM tool. The lab incorporates security monitoring, optimized searches, advanced threat detection, and visualization techniques to improve cybersecurity and incident response capabilities.
-
